@@ -55,3 +55,5 @@ n+=1
 print( (number+n),(number+n)**pow,(number+n)**(pow+1),(number+n)**(pow+2),(number+n)**(pow+3))
 n+=1
 print( (number+n),(number+n)**pow,(number+n)**(pow+1),(number+n)**(pow+2),(number+n)**(pow+3))
+
+
